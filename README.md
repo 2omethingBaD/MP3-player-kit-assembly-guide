@@ -21,6 +21,6 @@ These steps can be followed in any order
 - **The Microcontroller**: The Attiny85 used for this project has an included 8 pin dip socket that allows for the completetly open source code to be modified and rewritten onto the Attiny85 without the need to resolder (including this dip socket
 is optional). When saldering, the 8 pin dip dose not need to be saldered in a specific direction but when saldering or placing the Attiny85 into the pcb/ dip the small circle on the Attiny85 must line up to the circle depiction on the pcb
 to avoid damage to the Attiny85 or other components.
-![alt text](https://[github.com/2omethingBaD/MP3-player-kit-assembly-guide/blob/main/GITimg/20251022_152217.jpg]?raw=true)
+![alt text](https://github.com/2omethingBaD/TV-Head/blob/main/GITimg/20251022_152217.jpg?raw=true)
 ![alt text](https://[github.com/2omethingBaD/MP3-player-kit-assembly-guide/blob/main/GITimg/20251022_152250.jpg]?raw=true)
 ![alt text](https://[github.com/2omethingBaD/MP3-player-kit-assembly-guide/blob/main/GITimg/20251022_152402.jpg]?raw=true)
