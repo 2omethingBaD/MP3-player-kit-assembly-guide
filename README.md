@@ -19,7 +19,7 @@ This project is designed to play a single MP3 file with volume control, replay c
 ## ⚙️ Features
 
 - **Automatic Play & Pause** – The MP3 player starts playing automatically but can be paused when a magnet is brought close to the reed sensor.  
-- **Power Indicator** – A yellow LED indicates when the box is powered on.  
+- **Power Indicator** – A yellow LED indicates when the system is powered on.  
 - **Volume Control** – Four adjustable volume levels to suit your preference.  
 - **Audio Reset** – Restart the audio with a long press (2 seconds) or by bringing a magnet close to the reed sensor once the song has ended.  
 - **System Reset** – Reset the system for troubleshooting using the second button.
