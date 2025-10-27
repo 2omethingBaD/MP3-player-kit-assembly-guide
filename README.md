@@ -112,4 +112,4 @@ The included **9 V battery** can be replaced with any other 9 V battery of your 
 
 ---
 
-💡 *Created by [SomethingBAD Studios](https://github.com/2omethingBaD) — “BAD ideas, genius built.”*
+💡 *Liked this project? check out my youtube! [SomethingBAD Labs!](https://www.youtube.com/@somethingBAD_Labs) — “BAD ideas, genius built.”*
